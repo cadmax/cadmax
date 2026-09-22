@@ -128,14 +128,6 @@ I have built products involving wallets, operational automation, and integration
 
 </details>
 
-## Featured open-source project
-
-<a href="https://github.com/cadmax/migrate-mysql-postgres">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=cadmax&repo=migrate-mysql-postgres&theme=github_dark&hide_border=true&title_color=00d4aa&icon_color=00d4aa" alt="migrate-mysql-postgres repository" />
-</a>
-
-A **MySQL-to-PostgreSQL** migration tool written in TypeScript, helping the community automate a sensitive operational task.
-
 ## GitHub activity
 
 <div align="center">
