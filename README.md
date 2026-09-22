@@ -4,52 +4,54 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=00D4AA&center=true&vCenter=true&width=850&lines=Jefferson+Moraes;Software+Architect+%7C+Staff+Engineer;Backend+%7C+Web3+%7C+Blockchain;White-label+%7C+iGaming+%7C+High+Scale" alt="Jefferson Moraes — Software Architect, Staff Engineer and Backend Specialist" />
 </a>
 
-### Transformo desafios complexos de negócio em plataformas escaláveis, seguras e sustentáveis.
+### I turn complex business challenges into scalable, secure, and sustainable platforms.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeffersonmoraesalves)
-[![GitHub](https://img.shields.io/badge/GitHub-Seguir-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cadmax?tab=followers)
-![Profile views](https://komarev.com/ghpvc/?username=cadmax&style=for-the-badge&color=00b894&label=VISITAS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeffersonmoraesalves)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cadmax?tab=followers)
+![Profile views](https://komarev.com/ghpvc/?username=cadmax&style=for-the-badge&color=00b894&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## Sobre mim
+## About me
 
-Sou **Software Architect e Backend Engineer**, com mais de uma década de experiência em tecnologia e atuação na interseção entre **arquitetura, produto e liderança técnica**.
+I am a **Software Architect and Backend Engineer** with over a decade of experience in technology, working at the intersection of **architecture, product, and technical leadership**.
 
-Como **CTO da asap.codes**, liderei a evolução de uma plataforma **white-label utilizada por mais de 300 clientes**, equilibrando velocidade de entrega, isolamento entre tenants, personalização, confiabilidade e crescimento sustentável.
-
-Minha experiência passa por **Web3, blockchain, produtos financeiros, plataformas transacionais e iGaming**, incluindo soluções para cassinos e slots. Gosto especialmente de problemas que exigem domínio de negócio, decisões arquiteturais explícitas e sistemas preparados para alta concorrência.
+My background spans **Web3, blockchain, financial products, transactional platforms, and iGaming**, including casino and slot solutions. I am especially drawn to problems that demand deep domain knowledge, explicit architectural decisions, and systems designed for high concurrency.
 
 ```text
-Contexto antes do código  •  Simplicidade antes da abstração
-Observabilidade desde o início  •  Arquitetura a serviço do produto
+Context before code  •  Simplicity before abstraction
+Observability from day one  •  Architecture in service of the product
 ```
 
-## Impacto em números
+## Impact at a glance
 
 <table>
   <tr>
-    <td align="center"><strong>10+ anos</strong><br/>em tecnologia</td>
-    <td align="center"><strong>300+ clientes</strong><br/>em ecossistema white-label</td>
-    <td align="center"><strong>5 anos</strong><br/>desenvolvendo com Go</td>
-    <td align="center"><strong>5 anos</strong><br/>desenvolvendo com Java</td>
+    <td align="center"><strong>10+ years</strong><br/>in technology</td>
+    <td align="center"><strong>300+ clients</strong><br/>on a white-label ecosystem</td>
+    <td align="center"><strong>5 years</strong><br/>building with Go</td>
+    <td align="center"><strong>5 years</strong><br/>building with Java</td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><strong>Node.js & PHP</strong><br/>production backend systems</td>
+    <td align="center" colspan="2"><strong>Async & event-driven</strong><br/>queues, SQS, Kafka, workers, and resilient processing</td>
   </tr>
 </table>
 
-## Onde gero mais valor
+## Where I create the most value
 
-| Área | Como contribuo |
+| Area | How I contribute |
 |---|---|
-| **Arquitetura de software** | Sistemas distribuídos, DDD, microsserviços, arquitetura orientada a eventos e evolução de legados |
-| **Backend de alta escala** | APIs, processamento assíncrono, concorrência, performance, resiliência e observabilidade |
-| **White-label & SaaS** | Multi-tenancy, parametrização, isolamento, integrações e operação de centenas de marcas |
-| **Web3 & Blockchain** | Wallets, integrações on-chain/off-chain, automações e produtos baseados em ativos digitais |
-| **iGaming & Betting** | Plataformas transacionais, slots, integrações com provedores, pagamentos e jornadas de jogadores |
-| **Liderança técnica** | Estratégia, mentoria, desenho de times, revisão arquitetural e tradução entre negócio e engenharia |
+| **Software architecture** | Distributed systems, DDD, microservices, event-driven architecture, and legacy modernization |
+| **High-scale backend** | APIs, asynchronous processing, concurrency, performance, resilience, and observability |
+| **White-label & SaaS** | Multi-tenancy, configuration, isolation, integrations, and operation of hundreds of brands |
+| **Web3 & Blockchain** | Wallets, on-chain/off-chain integrations, automation, and digital-asset products |
+| **iGaming & Betting** | Transactional platforms, slots, provider integrations, payments, and player journeys |
+| **Technical leadership** | Strategy, mentoring, team design, architecture reviews, and bridging business with engineering |
 
-## Minha caixa de ferramentas
+## My toolbox
 
 <div align="center">
 
@@ -59,6 +61,7 @@ Observabilidade desde o início  •  Arquitetura a serviço do produto
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
@@ -69,6 +72,7 @@ Observabilidade desde o início  •  Arquitetura a serviço do produto
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Amazon SQS](https://img.shields.io/badge/Amazon_SQS-FF4F8B?style=for-the-badge&logo=amazonsqs&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 
 ### Cloud, Platform & Delivery
@@ -81,76 +85,76 @@ Observabilidade desde o início  •  Arquitetura a serviço do produto
 
 </div>
 
-## Como penso arquitetura
+## How I approach architecture
 
 ```mermaid
 flowchart LR
-    A[Problema de negócio] --> B[Contexto e restrições]
-    B --> C[Trade-offs explícitos]
-    C --> D[Arquitetura evolutiva]
-    D --> E[Entrega observável]
-    E --> F[Aprendizado em produção]
+    A[Business problem] --> B[Context and constraints]
+    B --> C[Explicit trade-offs]
+    C --> D[Evolutionary architecture]
+    D --> E[Observable delivery]
+    E --> F[Production learning]
     F --> B
 ```
 
 <details>
-<summary><strong>🏗️ Princípios que guiam minhas decisões</strong></summary>
+<summary><strong>🏗️ Principles that guide my decisions</strong></summary>
 
 <br/>
 
-- Começar pelo domínio, pelos riscos e pelos objetivos mensuráveis.
-- Escolher a solução mais simples que preserve a capacidade de evolução.
-- Tratar segurança, observabilidade e operação como parte do produto.
-- Separar o que precisa escalar do que precisa continuar fácil de mudar.
-- Registrar trade-offs para que o time entenda não apenas *o que*, mas *por quê*.
+- Start with the domain, risks, and measurable outcomes.
+- Choose the simplest solution that preserves room to evolve.
+- Treat security, observability, and operations as part of the product.
+- Separate what needs to scale from what needs to remain easy to change.
+- Record trade-offs so the team understands not only *what*, but *why*.
 
 </details>
 
 <details>
-<summary><strong>🎰 Experiência em iGaming e produtos transacionais</strong></summary>
+<summary><strong>🎰 iGaming and transactional product experience</strong></summary>
 
 <br/>
 
-Atuação em produtos que conectam jornadas de jogadores, engines e slots, integrações com provedores, carteiras, pagamentos, regras promocionais e backoffice. O foco é manter consistência financeira, rastreabilidade e baixa latência mesmo sob alta concorrência.
+I have worked on products connecting player journeys, game engines and slots, provider integrations, wallets, payments, promotional rules, and back-office operations. My focus is maintaining financial consistency, traceability, and low latency under heavy concurrency.
 
 </details>
 
 <details>
-<summary><strong>⛓️ Experiência em Web3 e blockchain</strong></summary>
+<summary><strong>⛓️ Web3 and blockchain experience</strong></summary>
 
 <br/>
 
-Desenvolvimento de produtos com carteiras, automação de operações, integração entre serviços tradicionais e redes blockchain, além de desenho de backends capazes de lidar com confirmações assíncronas, idempotência e auditoria.
+I have built products involving wallets, operational automation, and integrations between traditional services and blockchain networks, as well as backends designed for asynchronous confirmations, idempotency, and auditability.
 
 </details>
 
-## Projeto open source em destaque
+## Featured open-source project
 
 <a href="https://github.com/cadmax/migrate-mysql-postgres">
   <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=cadmax&repo=migrate-mysql-postgres&theme=github_dark&hide_border=true&title_color=00d4aa&icon_color=00d4aa" alt="migrate-mysql-postgres repository" />
 </a>
 
-Uma ferramenta de migração de **MySQL para PostgreSQL**, escrita em TypeScript e utilizada pela comunidade para automatizar uma tarefa operacional sensível.
+A **MySQL-to-PostgreSQL** migration tool written in TypeScript, helping the community automate a sensitive operational task.
 
-## GitHub em movimento
+## GitHub activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=cadmax&show_icons=true&theme=github_dark&hide_border=true&title_color=00d4aa&icon_color=00d4aa&include_all_commits=true" alt="Estatísticas do GitHub" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadmax&layout=compact&theme=github_dark&hide_border=true&title_color=00d4aa&langs_count=8" alt="Linguagens mais usadas" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=cadmax&show_icons=true&theme=github_dark&hide_border=true&title_color=00d4aa&icon_color=00d4aa&include_all_commits=true" alt="GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadmax&layout=compact&theme=github_dark&hide_border=true&title_color=00d4aa&langs_count=8" alt="Most-used languages" />
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=cadmax&theme=github-compact&hide_border=true&area=true&color=00d4aa&line=00d4aa&point=ffffff" alt="Gráfico de contribuições" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=cadmax&theme=github-compact&hide_border=true&area=true&color=00d4aa&line=00d4aa&point=ffffff" alt="Contribution activity graph" />
 
 </div>
 
-## Vamos construir algo relevante?
+## Let's build something meaningful
 
-Estou aberto a conversas sobre posições de **Software Architect, Staff Engineer, Tech Lead, Senior Backend Engineer e CTO**, especialmente em produtos com desafios reais de escala, plataforma, Web3, fintech ou iGaming — no Brasil, em formato remoto ou híbrido.
+I am open to conversations about **Software Architect, Staff Engineer, Tech Lead, Senior Backend Engineer, and CTO** roles—especially products facing real challenges in scale, platforms, Web3, fintech, or iGaming. I am based in Brazil and available for remote or hybrid opportunities.
 
 <div align="center">
 
-[![Fale comigo no LinkedIn](https://img.shields.io/badge/Fale_comigo_no_LinkedIn-00D4AA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeffersonmoraesalves)
+[![Let's connect on LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-00D4AA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeffersonmoraesalves)
 
-<sub>Se meu trabalho puder ajudar seu produto ou seu time, vamos conversar.</sub>
+<sub>If my experience can help your product or team, let's talk.</sub>
 
 </div>
